@@ -6,7 +6,9 @@ Design:
 - Factory Design Pattern is used to implement DI in ObjectFactory.java, which is used by 3rd part code / Test class.
   The getInstance() method returns the class instance based on the paramters class name and scope specified, 
   it internally uses Reflection.
-  
+
+  ![image]
+  (https://github.com/krishnan-pb/dependencyInjection/issues/1#issue-609088452)
   
   
 Unit Testing:
