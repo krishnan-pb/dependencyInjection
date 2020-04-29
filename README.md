@@ -7,7 +7,7 @@ Design:
   The getInstance() method returns the class instance based on the paramters class name and scope specified, 
   it internally uses Reflection.
 
-
+<img width="1014" alt="Screenshot 2020-04-29 at 10 00 30 PM" src="https://user-images.githubusercontent.com/20641887/80605736-0c8bb080-8a66-11ea-82b0-557bb6355657.png">
   
   
 Unit Testing:
