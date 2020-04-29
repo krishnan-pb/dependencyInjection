@@ -12,9 +12,7 @@ Design:
   
 Unit Testing:
 - ObjectFactoryTest class Tests the ObjectFactory.java class using junit assertions, which cover exceptional cases 
-  and valudation singleton and prototype behaviour.
-  
-<img width="987" alt="Screenshot 2020-04-29 at 10 00 57 PM" src="https://user-images.githubusercontent.com/20641887/80605822-25946180-8a66-11ea-800f-16f69b25c21b.png">
+  and validation singleton and prototype behaviour.
 
 
 Usage:
