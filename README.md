@@ -2,7 +2,7 @@
 
 Challenge:
 
-It’s 2002 all over again and our favorite DI (Dependency Injection) Framework have not been invented yet. Your task, should you choose to accept is to design & implement a dependency injection framework like spring.
+Implement DI (Dependency Injection) Framework. Your task, should you choose to accept is to design & implement a dependency injection framework like spring.
 
 You may have empty unit tests / implementation but at the bare minimum your solution should be able to demonstrate a DI by singleton & prototype scopes. 
 
